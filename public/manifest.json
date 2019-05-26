@@ -1,0 +1,5 @@
+[{
+  "name": "KnowledgeSpace",
+  "templateURL": "http://localhost:3002/template.html",
+  "scriptURL": "http://localhost:3002/kspace-script.js"
+}]
